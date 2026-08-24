@@ -8,7 +8,7 @@ For our DnD or other Table Top games we have automated some lighting and sound e
     - Saved mp3 files
     - Apple Shortcuts
 
-**1. Lighting:**
+1. Lighting:
     - Setup scene for Downstairs in Hue app
     - save as DnD - * so we know what it is for. 
 
