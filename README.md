@@ -68,3 +68,32 @@ For our DnD or other Table Top games we have automated some lighting and sound e
         - Ensure “Open as Web App” is selected
     - Now you can click it from Home Screen like a mobile app and it is all contained in there running through Safari. 
     - You will see it flash to Shortcuts briefly and first time each shortcut will ask if it can be run. Choose Always Allow
+
+<br><br>
+
+## Lessons Learned:
+
+**Alexa Routines**
+- Alexa runs their routine steps one at a time...
+- This created delays in Audio etc so it was not a seamless or emmersive experience.
+- Ability to use the rooms Echo Dots would have been nice... but the experience was poor.
+
+**Apple Shortcuts**
+- Shortcuts is able to send out multiple API calls at once triggering your elements at the same time or near instant.
+- This enabled the triggering of the lights and audio to happen together.
+- DOWNSIDE:
+  - Only streaming audio it allowed for was Apple Music.
+ 
+**Doppler MP3 and FLAC Player**
+- Able to play local audio files and create playlists
+- It integrates with Shortcuts seamlessly.
+- Faster response than streaming service as the data is local and no buffering
+
+**Streaming Services**
+- Each (Spotify, Apple Music) had their own difficulties.
+- But all had some delay in finding the playlist then playing it causing a delay.
+- There was also some issues with being able to hand the single back to Shortcuts vs waiting for whole thing to play. 
+
+
+
+
