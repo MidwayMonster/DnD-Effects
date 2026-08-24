@@ -1,4 +1,4 @@
-DnD Effects Board Setup
+# DnD Effects Board Setup
 
 For our DnD or other Table Top games we have automated some lighting and sound effects to enhance our game play and a stop towards total emersion. 
 
