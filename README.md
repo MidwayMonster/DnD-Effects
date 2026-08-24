@@ -2,22 +2,22 @@ DnD Effects Board Setup
 
 For our DnD or other Table Top games we have automated some lighting and sound effects to enhance our game play and a stop towards total emersion. 
 
-Apps:
-Philips Hue for lighting Scenes
-Doppler local player
-Saved mp3 files
-Shortcuts
+**Requirements:**
+    - Philips Hue for lighting Scenes
+    - Doppler local MP3 player
+    - Saved mp3 files
+    - Apple Shortcuts
 
-1. Lighting:
+**1. Lighting:**
     - Setup scene for Downstairs in Hue app
     - save as DnD - * so we know what it is for. 
 
-2. Download sound effects or background ambience
+**2. Download sound effects or background ambience**
     - Mainly found via YouTube
     - https://y2mate.gs/
     - File folder: “On My iPhone⁩ ▸ ⁨DnD⁩”
 
-3. Doppler MP3 Player
+**3. Doppler MP3 Player**
     - Download if not already installed.
     - Add songs to Doppler
         - Go to Files app. 
@@ -26,7 +26,7 @@ Shortcuts
     - Create a Playlist - this can be one song sequenced sound effects etc. 
     - Once created you have to play it once to be able to select it in next step. 
 
-4. Create an Apple Shortcut for your lighting and sound emersion. 
+**4. Create an Apple Shortcut for your lighting and sound emersion.**
     - Name it DnD-* with no spaces. 
     - Build what you want but here are some tips:
         - To add Doppler playlist: 
@@ -39,7 +39,7 @@ Shortcuts
         - Play with it and get creative. Some will work right others won’t. But that’s the fun. 
     - Save and create them all and of course test your hem as you go on.
 
-5. Web App UI:
+**5. Web App UI:**
     - Created this html page with AI. A lot of trial and error. 
     - html file is hosted in my GitHub.com account. 
     - Page is hosted for free in GitHub pages
@@ -51,7 +51,7 @@ Shortcuts
         - Update the div class TAG as this affects how the tile looks. 
         - Commit changes and wait for about a minute. 
 
-6. Creating the Web App icon in home page. 
+**6. Creating the Web App icon.**
     - This has to run within Safari browser due to how it is able to interface with Apple iPhone security. 
         - Note this does not effect your Default browser
     - Open the link in the Safari browser:
